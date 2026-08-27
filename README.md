@@ -15,7 +15,6 @@ Excel, Power Query, Power BI, SQL, and Python.
 - Data Cleaning
 - Data Visualization
 - MIS Reporting
-## 🛠️ Skills
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="45"/>
