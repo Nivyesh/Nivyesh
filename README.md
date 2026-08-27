@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nivyesh Chaudhari 👋
 
-<!--
-**Nivyesh/Nivyesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | MIS Executive
 
-Here are some ideas to get you started:
+I build business-focused data analysis and reporting solutions using
+Excel, Power Query, Power BI, SQL, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Excel
+- Power Query
+- Power BI
+- SQL
+- Python
+- Pandas
+- Data Cleaning
+- Data Visualization
+- MIS Reporting
+
+### 📊 Featured Projects
+
+1. Employee Attendance & Leave MIS
+2. Sales Performance Dashboard
+3. Inventory Analysis MIS
+4. HR Recruitment Analytics
+
+### 📫 Connect With Me
+linkedin.com/in/nivyesh-chaudhari-9a93332bb | chaudharinivyesh92@gmail.com
