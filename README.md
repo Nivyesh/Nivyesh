@@ -24,4 +24,8 @@ Excel, Power Query, Power BI, SQL, and Python.
 4. HR Recruitment Analytics
 
 ### 📫 Connect With Me
-linkedin.com/in/nivyesh-chaudhari-9a93332bb | chaudharinivyesh92@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nivyesh-chaudhari-9a93332bb/) | chaudharinivyesh92@gmail.com
+
+## Connect With Me
+
+
